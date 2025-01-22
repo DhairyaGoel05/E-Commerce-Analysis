@@ -123,7 +123,7 @@ The following operations are conducted in this analysis:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/e-commerce-analysis.git
+   git clone https://github.com/DhairyaGoel05/e-commerce-analysis.git
    ```
 
 2. Navigate to the project directory:
